@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jasonandersonafitmaker.dexarcade",
+    "sha256_cert_fingerprints": ["0B:0D:44:A5:D1:E9:D6:7F:23:DE:EB:80:18:E6:02:2D:5E:31:05:66:B1:1A:3E:70:E1:1D:84:93:3C:7E:B6:60"]
+  }
+}]
